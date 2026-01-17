@@ -1,6 +1,6 @@
-==============================================================================================================
+
 **NEXUS: Servidor de Herramientas para IA (MCP)**
-==============================================================================================================
+
 NEXUS es un servidor robusto basado en el Model Context Protocol (MCP) que actúa como el "cuerpo" operativo para modelos de lenguaje a gran escala (LLMs). Este proyecto permite que una IA interactúe directamente con el sistema de archivos, analice datos estructurados, realice web scraping y automatice comunicaciones por WhatsApp, todo desde una única interfaz unificada.
 
 **Herramientas Disponibles (Tools)**
